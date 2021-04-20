@@ -1,0 +1,16 @@
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.csprojAssemblyReference.cache
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.AssemblyInfoInputs.cache
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.AssemblyInfo.cs
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.csproj.CoreCompileInputs.cache
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp.deps.json
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp.runtimeconfig.json
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp.runtimeconfig.dev.json
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp.dll
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/ref/consoleapp.dll
+/home/goli/Desktop/app/consoleapp/bin/Debug/net5.0/consoleapp.pdb
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.dll
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/ref/consoleapp.dll
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.pdb
+/home/goli/Desktop/app/consoleapp/obj/Debug/net5.0/consoleapp.genruntimeconfig.cache
